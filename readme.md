@@ -64,6 +64,7 @@ The Step Functions workflow orchestrates the image classification process:
 1. Serialize image data
 2. Classify image
 3. Filter inferences
+<img width="1916" alt="stepfunction" src="https://github.com/user-attachments/assets/88dd708a-9ce2-4c01-82ad-ef0145cd51e1">
 
 The workflow definition is provided in the `workflowjson.json` file.
 
